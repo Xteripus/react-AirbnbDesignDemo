@@ -9,8 +9,8 @@ import Card from "./components/Cards";
 function App() {
   return (
     <>
-      <Navbar />
-      <Hero />
+      {/* <Navbar /> */}
+      {/* <Hero /> */}
       <Card />
     </>
   );
